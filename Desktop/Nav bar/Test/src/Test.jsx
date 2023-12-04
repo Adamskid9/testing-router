@@ -10,3 +10,6 @@ function Test() {
 }
 
 export default Test
+
+//   git remote add origin https://github.com/Adamskid9/testing-router.git
+//   git push -u origin main
