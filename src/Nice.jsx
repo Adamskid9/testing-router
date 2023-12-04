@@ -11,5 +11,3 @@ function Nice() {
 
 export default Nice
 
-//   git remote add origin https://github.com/Adamskid9/testing-router.git
-//   git push -u origin main
